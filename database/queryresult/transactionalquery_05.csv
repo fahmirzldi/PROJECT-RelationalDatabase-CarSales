@@ -1,0 +1,4 @@
+"product_id","brand","model","year","price","city_latitude","city_longitude","euclidean_distance"
+9,"Toyota","Toyota Agya",2022,155500000,-6.1352,106.813301,0.0
+26,"Daihatsu","Daihatsu Xenia",2019,170000000,-6.1352,106.813301,0.0
+32,"Honda","Honda Jazz",2019,250000000,-6.1352,106.813301,0.0
